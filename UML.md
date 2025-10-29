@@ -11,7 +11,7 @@
 
 ```java
 class WideGoose implements IFly{
-    //something excuting
+    //something executing
 }
 ```
 
