@@ -1,4 +1,6 @@
-# 好处
+# 面向对象程序设计
+
+## 好处
 
 1. 模块化与易维护-Modularity & Maintainability
 2. 可复用性-Reusability
@@ -9,3 +11,9 @@
 Extensibilty - 扩展功能
 Scalability - 扩展资源
 ```
+
+## 特性
+
+1. 封装
+2. 继承
+3. 多态
